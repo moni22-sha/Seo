@@ -1,0 +1,7 @@
+{
+  "name": "The Bot Agency - Logistics SEO",
+  "description": "Specialized SEO services for logistics and freight forwarding companies to generate consistent B2B leads.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
