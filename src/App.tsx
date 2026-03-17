@@ -243,7 +243,7 @@ const Hero = () => (
             <span>Powering the future of logistics marketing</span>
           </div>
           <h1 className="text-5xl lg:text-7xl font-bold leading-[1.1] mb-6">
-            SEO for <span className="gradient-text">Logistics</span> Companies
+            SEO for <span className="">Logistics</span> Companies
           </h1>
           <p className="text-xl text-gray-400 mb-8 mx-auto">
             Generate consistent freight & logistics enquiries online. We help importers, exporters, and supply chain managers find you first.
